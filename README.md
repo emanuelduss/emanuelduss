@@ -12,8 +12,8 @@
 
 ### Linux Related
 
-- My Configuration Files: https://github.com/mindfuckup/Configs
-- Some Scripts: https://github.com/mindfuckup/Scripts
+- My Configuration Files: [mindfuckup/Configs](https://github.com/mindfuckup/Configs)
+- Some Scripts: [mindfuckup/Scripts](https://github.com/mindfuckup/Scripts)
 
 ### Security Related
 

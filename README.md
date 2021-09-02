@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🐦 Twitter: [https://twitter.com/mindfuckup](mindfuckup)
+- 📧 E-Mail: emanuel.duss@gmail.com
+- 🌐Website: https://emanuelduss.ch
+
 <!--
 **mindfuckup/mindfuckup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,8 +17,13 @@
 
 ### Security Related
 
-- Burp Extension: SAML Raider: https://github.com/CompassSecurity/SAMLRaider
-- Burp Extension: Copy Request & Response: https://github.com/CompassSecurity/burp-copy-request-response
-- Bluetooth Low Energy Beertalk: https://github.com/CompassSecurity/Bluetooth_Low_Energy_BLE
-- Hacking Tools Cheat Sheet: https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet
-- Security Resources Link List: https://github.com/CompassSecurity/security_resources
+- Burp Extension: SAML Raider:
+  [CompassSecurity/SAMLRaider](https://github.com/CompassSecurity/SAMLRaider)
+- Burp Extension: Copy Request & Response:
+  [CompassSecurity/burp-copy-request-response](https://github.com/CompassSecurity/burp-copy-request-response)
+- Bluetooth Low Energy Beertalk:
+  [CompassSecurity/Bluetooth_Low_Energy_BLE](https://github.com/CompassSecurity/Bluetooth_Low_Energy_BLE)
+- Hacking Tools Cheat Sheet:
+  [CompassSecurity/Hacking_Tools_Cheat_Sheet](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet)
+- Security Resources Link List:
+  [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources)

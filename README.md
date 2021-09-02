@@ -4,7 +4,9 @@
 
 - 🐦 Twitter: [mindfuckup](https://twitter.com/mindfuckup)
 - 📧 E-Mail: emanuel.duss@gmail.com
-- 🌐Website: https://emanuelduss.ch
+- 🌐Website: [emanuelduss.ch](https://emanuelduss.ch)
+- 🔐 Keybase: [emanuelduss](https://keybase.io/emanuelduss)
+- 🐝 LinkedIn: [emanuelduss](https://www.linkedin.com/in/emanuelduss/)
 
 ## Interesting Repositories
 

@@ -2,7 +2,7 @@
 
 ## Contact
 
-- 🐦 Twitter: [mindfuckup](https://twitter.com/mindfuckup)
+- 🐦 Twitter: [emanuelduss](https://twitter.com/emanuelduss)
 - 📧 E-Mail: me@emanuelduss.ch
 - 🌐 Website: [emanuelduss.ch](https://emanuelduss.ch)
 - 🔐 Keybase: [emanuelduss](https://keybase.io/emanuelduss)
@@ -12,8 +12,8 @@
 
 ### Linux Related
 
-- My Configuration Files: [mindfuckup/Configs](https://github.com/mindfuckup/Configs)
-- Some Scripts: [mindfuckup/Scripts](https://github.com/mindfuckup/Scripts)
+- My Configuration Files: [emanuelduss/Configs](https://github.com/emanuelduss/Configs)
+- Some Scripts: [emanuelduss/Scripts](https://github.com/emanuelduss/Scripts)
 
 ### Security Related
 

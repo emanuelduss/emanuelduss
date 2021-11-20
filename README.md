@@ -6,7 +6,11 @@
 - 📧 E-Mail: me@emanuelduss.ch
 - 🌐 Website: [emanuelduss.ch](https://emanuelduss.ch)
 - 🔐 Keybase: [emanuelduss](https://keybase.io/emanuelduss)
-- 🐝 LinkedIn: [emanuelduss](https://www.linkedin.com/in/emanuelduss/)
+- 💻 LinkedIn: [emanuelduss](https://www.linkedin.com/in/emanuelduss/)
+
+## GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelduss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interesting Repositories
 
@@ -27,3 +31,5 @@
   [CompassSecurity/Hacking_Tools_Cheat_Sheet](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet)
 - Security Resources Link List:
   [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources)
+
+

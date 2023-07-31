@@ -2,15 +2,11 @@
 
 ## Contact
 
-- 🐦 Twitter: [emanuelduss](https://twitter.com/emanuelduss)
-- 📧 E-Mail: me@emanuelduss.ch
 - 🌐 Website: [emanuelduss.ch](https://emanuelduss.ch)
-- 🔐 Keybase: [emanuelduss](https://keybase.io/emanuelduss)
-- 💻 LinkedIn: [emanuelduss](https://www.linkedin.com/in/emanuelduss/)
-
-## GitHub
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelduss&show_icons=true&theme=dark)](https://github.com/emanuelduss/)
+- 📧 E-Mail: me@emanuelduss.ch
+- 🔓 PGP: [0x6E3FADB6](https://emanuelduss.ch/emanuelduss.txt) (Fingerprint: 7994 C89B 04BD 13C0 318E 75E1 08D1 B760 6E3F ADB6) 
+- 🐘 Mastodon: [@emanuelduss@infosec.exchange](https://infosec.exchange/@emanuelduss)
+- 🐦 Twitter: [emanuelduss](https://twitter.com/emanuelduss)
 
 ## Interesting Repositories
 
@@ -31,5 +27,3 @@
   [CompassSecurity/Hacking_Tools_Cheat_Sheet](https://github.com/CompassSecurity/Hacking_Tools_Cheat_Sheet)
 - Security Resources Link List:
   [CompassSecurity/security_resources](https://github.com/CompassSecurity/security_resources)
-
-
